@@ -1,0 +1,29 @@
+name: CI Workflow
+
+on:
+  push:
+    branches:
+      - '*'  # Trigger on any branch push
+  pull_request:
+    branches:
+      - '*'  # Trigger on pull requests for any branch
+
+jobs:
+  build:
+    name: NPM Build
+    runs-on: ubuntu-latest  # You can choose the appropriate OS for your environment
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'  # Specify the version of Node.js to use
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build the project
+        run: npm run build
