@@ -1,0 +1,204 @@
+{
+  "books": [
+    {
+      "id": "c6f91579-0c8d-4472-a4ff-d291f1ffb67d",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "publishedYear": 1960,
+      "userId": "1a61fc90-8fbf-44e6-8753-b39ca445ea3d"
+    },
+    {
+      "id": "c29aa55e-c0ee-4993-9ab3-3033e3d07e6d",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "publishedYear": 1949,
+      "userId": "1a61fc90-8fbf-44e6-8753-b39ca445ea3d"
+    },
+    {
+      "id": "3a3e3c94-6f4c-4f19-9991-cea005ffdf71",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance",
+      "publishedYear": 1813,
+      "userId": "1a61fc90-8fbf-44e6-8753-b39ca445ea3d"
+    },
+    {
+      "id": "54e0eb97-e26a-4822-a0ea-33057604b26e",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Tragedy",
+      "publishedYear": 1925,
+      "userId": "1a61fc90-8fbf-44e6-8753-b39ca445ea3d"
+    },
+    {
+      "id": "e8ff270d-4404-42d1-a567-4b0a08f0bed8",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "genre": "Gothic",
+      "publishedYear": 1847,
+      "userId": "1a61fc90-8fbf-44e6-8753-b39ca445ea3d"
+    },
+    {
+      "id": "b00ec25d-5fab-4c34-920c-9ff82685a502",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "publishedYear": 1951,
+      "userId": "1a61fc90-8fbf-44e6-8753-b39ca445ea3d"
+    },
+    {
+      "id": "c4c01488-d33a-48b4-97b4-96a7c2256b54",
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "genre": "Science Fiction",
+      "publishedYear": 1932,
+      "userId": "1a61fc90-8fbf-44e6-8753-b39ca445ea3d"
+    },
+    {
+      "id": "c7d0d7d7-9ee2-43f6-bc3a-84d9b2edf8ad",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "publishedYear": 1954,
+      "userId": "1a61fc90-8fbf-44e6-8753-b39ca445ea3d"
+    },
+    {
+      "id": "1a0e4c18-50cc-402c-bae7-dcbeb8050ef1",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "publishedYear": 1937,
+      "userId": "1a61fc90-8fbf-44e6-8753-b39ca445ea3d"
+    },
+    {
+      "id": "aec6636b-a5d6-4ef5-b588-821f6d59514d",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "genre": "Horror",
+      "publishedYear": 1818,
+      "userId": "1a61fc90-8fbf-44e6-8753-b39ca445ea3d"
+    },
+    {
+      "id": "01b05feb-1aca-4fc0-bc91-ba8fba55d66a",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Psychological Fiction",
+      "publishedYear": 1866,
+      "userId": "1a61fc90-8fbf-44e6-8753-b39ca445ea3d"
+    },
+    {
+      "id": "44191832-b939-4b07-91cf-49d9593b7778",
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "genre": "Gothic",
+      "publishedYear": 1847,
+      "userId": "1a61fc90-8fbf-44e6-8753-b39ca445ea3d"
+    },
+    {
+      "id": "56e8211c-8077-4fed-bccd-9cde5be70d1c",
+      "title": "The Odyssey",
+      "author": "Homer",
+      "genre": "Epic",
+      "publishedYear": 1897,
+      "userId": "1a61fc90-8fbf-44e6-8753-b39ca445ea3d"
+    },
+    {
+      "id": "e7bba093-6599-4bb4-9e5b-b0c875d84e8a",
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "genre": "Philosophical Fiction",
+      "publishedYear": 1880,
+      "userId": "1a61fc90-8fbf-44e6-8753-b39ca445ea3d"
+    },
+    {
+      "id": "60c9d8c9-3cf5-44a9-b729-006afff07ca1",
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "genre": "Realist Novel",
+      "publishedYear": 1878,
+      "userId": "1a61fc90-8fbf-44e6-8753-b39ca445ea3d"
+    },
+    {
+      "id": "08f634b0-199e-49a3-bf17-487f23d73351",
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "genre": "Dystopian",
+      "publishedYear": 1953,
+      "userId": "fa5c8177-3936-450c-9ed7-12b2d50a417a"
+    },
+    {
+      "id": "de53632d-d567-4f7b-8dd3-e252758fc148",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "genre": "Horror",
+      "publishedYear": 1897,
+      "userId": "fa5c8177-3936-450c-9ed7-12b2d50a417a"
+    },
+    {
+      "id": "40ebce20-801c-411e-bffe-41fa8928762b",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "genre": "Philosophical Fiction",
+      "publishedYear": 1890,
+      "userId": "fa5c8177-3936-450c-9ed7-12b2d50a417a"
+    },
+    {
+      "id": "ffc5d4ae-2401-482b-9075-a09fa140550e",
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "genre": "Satire",
+      "publishedYear": 1605,
+      "userId": "fa5c8177-3936-450c-9ed7-12b2d50a417a"
+    },
+    {
+      "id": "e8884890-ccc4-41be-8bf1-162ae2ef776b",
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "genre": "Historical Fiction",
+      "publishedYear": 1859,
+      "userId": "fa5c8177-3936-450c-9ed7-12b2d50a417a"
+    },
+    {
+      "id": "73fb0f23-7ce5-42d4-a50a-1da089af9c7f",
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "genre": "Historical Fiction",
+      "publishedYear": 1862,
+      "userId": "fa5c8177-3936-450c-9ed7-12b2d50a417a"
+    },
+    {
+      "id": "e2dd07e2-cabe-4e8d-956f-16f478e19314",
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "genre": "Philosophical Fiction",
+      "publishedYear": 1942,
+      "userId": "fa5c8177-3936-450c-9ed7-12b2d50a417a"
+    },
+    {
+      "id": "8234aae4-8749-4442-83a6-a68ea446c720",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Adventure",
+      "publishedYear": 1988,
+      "userId": "fa5c8177-3936-450c-9ed7-12b2d50a417a"
+    },
+    {
+      "id": "002e8626-87d7-4b9f-b882-4d31de2e0691",
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "genre": "Historical Fiction",
+      "publishedYear": 1987,
+      "userId": "c24f5062-4218-4fc3-b46f-7d60627dd683"
+    },
+    {
+      "id": "ae66b6bd-4051-462d-8845-a0d15ddc79b2",
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "genre": "Realist Novel",
+      "publishedYear": 1939,
+      "userId": "c24f5062-4218-4fc3-b46f-7d60627dd683"
+    }
+  ]
+}

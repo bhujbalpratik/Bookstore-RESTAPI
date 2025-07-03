@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "1a61fc90-8fbf-44e6-8753-b39ca445ea3d",
+      "username": "johndoe",
+      "email": "john@example.com",
+      "password": "$2b$12$6kHWxr9v7e2D2z0HsevGSuKxaV7mh3z9GqrEK10wlEGlZ8aHvCejK",
+      "createdAt": "2025-07-03T02:04:55.340Z",
+      "updatedAt": "2025-07-03T02:04:55.340Z"
+    },
+    {
+      "id": "fa5c8177-3936-450c-9ed7-12b2d50a417a",
+      "username": "pratik",
+      "email": "pb@example.com",
+      "password": "$2b$12$0PhHzQ9fx7yld09KLbCsx.dDpQ05wUWHJt0T/6MSxt0Zp3n5Z8T9.",
+      "createdAt": "2025-07-03T03:34:27.909Z",
+      "updatedAt": "2025-07-03T03:34:27.909Z"
+    },
+    {
+      "id": "c24f5062-4218-4fc3-b46f-7d60627dd683",
+      "username": "akshay",
+      "email": "ak@example.com",
+      "password": "$2b$12$EBlk6/P7MYx3cFuCkxAo3O7VyRkiV28jK0/aFj0n7IrrDbUGOYt1i",
+      "createdAt": "2025-07-03T03:39:38.294Z",
+      "updatedAt": "2025-07-03T03:39:38.294Z"
+    },
+    {
+      "id": "b2b019f5-f7b5-4fe2-bd57-83a636bedd81",
+      "username": "ramesh",
+      "email": "ramesh@example.com",
+      "password": "$2b$12$zazFMtzhe6wyBVHgkBN7O.SS5nb0OCkAJOSD6E9nyA9YFLI1iKZny",
+      "createdAt": "2025-07-03T05:08:46.304Z",
+      "updatedAt": "2025-07-03T05:08:46.304Z"
+    }
+  ]
+}
